@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# 含真实 API Key，只保留 config.toml.bak 模板
+config/config.toml
