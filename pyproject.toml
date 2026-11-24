@@ -1,0 +1,9 @@
+[project]
+name = "weilongfei"
+version = "0.1.0"
+description = "LangGraph project dependencies"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain-openai==1.8.5",
+    "langgraph==1.2.24",
+]
